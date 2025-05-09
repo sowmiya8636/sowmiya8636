@@ -25,6 +25,7 @@ Whether it’s a smart device, predictive model or communication network — I e
 🔋 Gas Level Detector & Automatic Booking System (IoT Project)
 
 → Smart LPG gas detection with automatic cylinder booking and leakage alerts.
+
 → Highlights:
 
 ✅ Real-time gas level monitoring
@@ -39,27 +40,29 @@ Whether it’s a smart device, predictive model or communication network — I e
 → A smart healthcare solution for identifying unconscious accident victims through biometrics.
 
 → Highlights:
+
 ✅ Fingerprint-based victim authentication
 
 ✅ Automatic emergency contact & hospital alert
 
 ✅ Cloud-based medical record retrieval
 
-→ Tech Stack: Raspberry Pi, Fingerprint Sensor, Firebase
+→ Tech Stack: AWS Cloud, Fingerprint Sensor, NodeRED
 
 
-📊 Eotichurn: Predicting Customer Exit using Machine Learning
+📊 Emotichurn: Predicting Customer Exit using Machine Learning
 
 → A predictive model to identify potential telecom customer churn and enable retention strategies.
 
 → Highlights:
+
 ✅ Achieved 87% accuracy using XGBoost
 
 ✅ Interactive dashboard for customer insights
 
 ✅ Actionable churn risk categorization
 
-→ Tech Stack: Python, scikit-learn, XGBoost, Streamlit
+→ Tech Stack: Python, Emotional Intelligence, Speech-to-Text 
 
 
 🎖️ Achievements
@@ -68,7 +71,7 @@ Whether it’s a smart device, predictive model or communication network — I e
 
 📬 Let’s Connect
 
-✉️ sowmiya8636@gmail.com
+✉️ Email : sowmiya8636@gmail.com
 
 🔗 LinkedIn : https://www.linkedin.com/in/sowmiya-v-39667125a
 
